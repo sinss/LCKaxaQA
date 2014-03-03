@@ -1,0 +1,123 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName="KaxaQA";
+/*
+ TabBar & NavigationBar標題
+ */
+"Home"="Home";
+"MyArea"="Me";
+"Search"="Search";
+"Setting"="Setting";
+"AskQuestion"="Ask";
+/*
+ 按鈕
+ */
+"ReplyQuestion"="Reply";
+"Giveup"="Cancel";
+"Cancel"="Cancel";
+"Done"="Done";
+"Back"="Back";
+/*
+ 設定畫面
+ */
+"AccountSetting"="My account";
+"LoginAccount"="Login account";
+"CreateAccount"="Create account";
+"AboutMe"="About us";
+"AboutSystem"="System introduction";
+"AboutKaxa"="About Kaxa Net";
+"SystemIntro"="System";
+"AboutTeam"="Abount us";
+"ContactUs"="Contact us";
+"Detail"="Detail";
+"Login"="Login";
+"LoginFaild"="Login faild";
+"ClearAccount"="clear account";
+"Signup"="signup";
+"SignupFaild"="signup faild";
+"Account"="account";
+"Password"="password";
+"name"="name";
+"Nickname"="nickname";
+"email"="e mail";
+"EnterAccount"="Please enter a account(e mail)";
+"EnterPassword"="Please enter a password";
+"CheckPassword"="Please check password again";
+"EnterName"="Please enter a name";
+"EnterEmail"="Please enter a e-mail";
+"EnterNickname"="Please enter a nickname(display field)";
+"NotEmptyAccount"="Account error";
+"NotEmptyPassword"="Password error";
+"PasswordLength"="password at least eight letters or numbers";
+"NotEmptyName"="Name error";
+"NotEmptyEmail"="Email error";
+"NotEmptyNickname"="Nickname error";
+"NotAnEmail"="InValid Email";
+
+/*
+ 我的主題、我的回覆、我的訂閱
+ */
+"LastestNews"="News";
+"LastestQuestion"="Recently";
+"LastestReply"="Recently reply";
+"AskQuestionList"="Ask Questions";
+"ReplyQuestionList"="Reply Questions";
+"ReplyTime"="reply time:%@";
+"AnswerCount"="Reply：%i";
+"Replyer"="reply";
+"package"="package";
+"unpackage"="unpackage";
+"closed"="closed";
+"active"="active";
+"MyQuestion"="My Questions";
+"MyReply"="My Reply";
+"MySubscribe"="My Subscribe";
+/*
+ 帳號顯示文字
+ */
+"NotCheckAccount"="Please check your account";
+/*
+ 登入顯示文字
+ */
+"Welcome"="Welcome back";
+/*
+ 年級
+ */
+"All"="(None)";
+"Elementary"="Elementary School";
+"Junior"="Junior high school";
+"Senior"="Senior hign school";
+"University"="University";
+/*
+ 科目
+ */
+"Math"="Math";
+"PandC"="Physical&Chemistry";
+"Physical"="Physics";
+"Physical2"="Biology";
+"Chemistry"="Chemistry";
+"BasicChemistry"="Basic Chemistry";
+"Chinese"="Chinese";
+"English"="English";
+"Other"="Photo notes";
+/*
+ QuestionDetail文字
+ */
+"Picture"="Photo";
+"Title"="Title";
+"Content"="Content";
+"Class"="Class";
+"date"="Create Date";
+/*
+ AskTableView文字
+ */
+"PickPicture"="take a photo";
+"Subject"="subject";
+"School"="Year";
+"PleaseEnterTitle"="Please enter question title";
+"PleaseEnterContent"="Please enter question content";
+"CameraSource"="Choose camera source";
+"TakePicture"="Take picture";
+"PhotoAlbum"="Photo album";
+"CameraNotSupport"="device not support";
+
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[customQuestionDetailCell2 setImageArrayWithImageArray:]:customQuestionDetailCell2.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "askerid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[customDetailViewController startGetNewsDetailWithAlertInd:]:customDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[QuestionDetailTableViewController tableView:cellForRowAtIndexPath:]:QuestionDetailTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MyPostDelegate parseXml]:MyPostDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[customImgaeView downloadAndDisplayImageWithURL:]:customImgaeView.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

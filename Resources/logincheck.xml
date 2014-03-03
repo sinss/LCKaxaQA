@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <status comment="0:succeed , 1 : faild">0</status>
+  <accountID>sinss</accountID>
+  <password>sinss</password>
+  <accountname comment="註冊時的姓名">張星星</accountname>
+  <mail comment="註冊時的信箱">sinss0000@gmail.com</mail>
+</result>

@@ -1,0 +1,155 @@
+//
+// Prefix header for all source files of the 'KaxaQ&A' target in the 'KaxaQ&A' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define os_version [[[UIDevice currentDevice] systemVersion] doubleValue]
+/*
+ 各種圖片、背景設定
+*/
+#define homeTabImage @"home.png"
+#define aboutmeTabImage @"me.png"
+#define searchTabImage @"search.png"
+#define settingtabImge @"setting.png"
+#define groupTableViewBg [UIImage imageNamed:@"bg_white.jpg"]
+#define plainTableviewBg [UIImage imageNamed:@"bg_white.jpg"]
+#define normalTableViewCellBg [UIImage imageNamed:@"Qcell_yellow.png"]
+#define normalTableViewCellSmallImg [UIImage imageNamed:@"spot.png"]
+#define replyQuestionCellBg [UIImage imageNamed:@"Qcell_green.png"]
+#define askQuestionCellBg [UIImage imageNamed:@"Qcell_pink.png"]
+#define myareaHeaderBg2 [UIImage imageNamed:@"title_bg.png"]
+#define myareaHeaderBg3 [UIImage imageNamed:@"title_bg.png"]
+#define myareaHeaderBg1 [UIImage imageNamed:@"title_bg.png"]
+#define loginIcon [UIImage imageNamed:@"Login.png"]
+#define mailIcon [UIImage imageNamed:@"Mail.png"]
+#define systemIcon [UIImage imageNamed:@"System.png"]
+#define signupIcon [UIImage imageNamed:@"Signup.png"]
+#define searchBarBackgroundColor [UIColor colorWithRed:240.0f/255.0f green:50.0f/255.0f blue:14.0f/255.0f alpha:1]
+//上方NavigationBar上的按鈕背景顏色
+#define navigationBarColor [UIColor colorWithRed:5.0f/255.0f green:62.0f/255.0f blue:122.0f/255.0f alpha:1]
+#define navigationBarButtonColor [UIColor colorWithRed:82.0f/255.0f green:66.0f/255.0f blue:58.0f/255.0f alpha:1]
+//下方Toolbar上的按鈕背景顏
+#define toolBarColor [UIColor colorWithRed:5.0f/255.0f green:62.0f/255.0f blue:122.0f/255.0f alpha:1]
+#define toolBarButtonColor [UIColor colorWithRed:82.0f/255.0f green:66.0f/255.0f blue:58.0f/255.0f alpha:1]
+//table view background color
+#define tableViewBackgroundColor [UIColor colorWithRed:187.0f/255.0f green:230.0f/255.0f blue:255.0f/255.0f alpha:1]
+#define navigationBarBackground @"navigationbar2null.png"
+#define toolbarBackground @"toolbarBg.png"
+#define noImageName @"nopicture_bg.png"
+#define loadingImageName @"loading.png"
+/*
+ 在info.plist中取得資料的key
+*/
+#define aboutSystemKey @"aboutSystemInfo"
+#define aboutTeamKey @"aboutTeamInfo"
+#define aboutTeamSupportKey @"aboutTeamSupport"
+/*
+ 各種檔案名稱
+*/
+#define accountInfoName @"accountInfo.plist"
+/*
+ 判斷KaxaNet是否可存取之變數
+*/
+#define kaxaNetNotReachName @"kaxaNetNotReachName"
+#define kaxaNetReachName @"kaxaNetReachName"
+#define kaxaNetReachableKey @"kaxaNetReachableKey"
+#define kaxaNetNotReachableKey @"kaxaNetNotReachableKey"
+#define kaxaNetReachableValue @"Reachable"
+#define kaxaNetNotReachableValue @"NotReachable"
+/*
+ 文字訊息
+*/
+#define copyrightString @"Mountain Star Copyright® 2012"
+#define loginTableViewFootString @"logining...to KaxaNet:"
+#define signupTableviewFootString @"建立您的KaxaQ&A帳號:"
+#define forgotpasswordTableviewFootString @"重設您的KaxaQ&A密碼:"
+#define kaxaNetNotReachableMessage @"目前網路連線不穩定，請稍後在試。"
+#define serviceNotAbailable @"系統維護中，請稍後在試。"
+#define connectToKaxaNet @"connecting..."
+#define uploadToKaxaNet @"uploading..."
+/*
+ webservice
+*/
+#define themeUrl @"http://www.kaxa.com.tw/phone/Theme.php"
+#define kaxaReachUrl @"kaxa.net"
+#define myAreaUrl @"http://kaxa.net/test/phone_questionList.php?acc=%@&pass=%@"
+#define searchUrl @"http://kaxa.net/test/phone_searchList.php?sub=1&search=%@&u_education=%i&u_course=%i"
+#define detailUrl @"http://kaxa.net/test/phone_detailList.php?qid=%i"
+#define homeUrl   @"http://kaxa.net/test/phone_home.php"
+#define loginUrl  @"http://kaxa.net/test/phone_login.php"
+#define signupUrl @"http://kaxa.net/test/phone_register.php"
+#define signupUrl2 @"http://kaxa.net/test/phone_signup.php?acc=a&pass1=a&pass2=a&name=a&email=a"
+//#define askQuestionUrl @"acc=%@&pass=%@&act=q&q_title=%@&content=%@&u_course=%i&u_education=%i"
+#define askQuestionUrl @"http://kaxa.net/test/phone_upload.php"
+#define replyQuestionUrl @"http://kaxa.net/test/phone_upload.php?acc=%@&pass=%@&act=a&aid=%@&content=%@&image=%@"
+#define getImageUrl @"http://kaxa.net/test"
+/*
+ 網址
+ */
+#define webserviceUrl @"http://kaxa.org"
+#define myAreaUrl2 webserviceUrl @"/phone/phone_questionList.php"
+#define searchUrl2 webserviceUrl @"/phone/phone_searchList.php?kw=%@&dg=%i&sub=%i"
+#define searchUrl3 webserviceUrl @"/phone/phone_searchList.php"
+#define detailUrl2 webserviceUrl @"/phone/phone_detailList.php"
+#define homeUrl2   webserviceUrl @"/phone/phone_NewsList.php"
+#define newsDetailUrl webserviceUrl @"/phone/phone_NewsContent.php"
+#define loginUrl2 webserviceUrl @"/phone/phone_login.php"
+#define signupUrl3 webserviceUrl @"/phone/phone_signup.php"
+#define askQuestionUrl2 webserviceUrl @"/phone/phone_upload.php"
+#define replyQuestionUrl2 webserviceUrl @"/phone/phone_reply.php"
+
+#define accountPostKey @"acc"
+#define passwordPostKey @"pass"
+#define password1PostKey @"pass1"
+#define password2PostKey @"pass2"
+#define namePostKey @"name"
+#define emailPostKey @"email"
+#define nicknameKey @"nickName"
+#define birthdayKey @"bdy"
+#define phoneNumberKey @"phoNum"
+#define phoneType @"phoType"
+#define tokenPostKey @"pid"
+/*
+ 設定Image
+*/
+#define pictureCellTakcPictureButton [UIImage imageNamed:@"change_og.png"]
+#define pictureCellViewLargePictureButton [UIImage imageNamed:@"magnifier.png"]
+/*
+ 各Cell的高度
+*/
+#define homeTableViewCellHeight 70
+#define askTableViewCellHeight 50
+#define customButtonCellHeight 40
+#define customTextfieldCellHeight 40
+#define customQuestionCellHeight 110
+#define MyPictureTableViewCellHeight 230
+#define questionDetailOtherCellHeight 40
+#define questionDetailImageCellHeight 200
+#define defaultTableViewCellHeight 44
+
+#define customContentTextViewCellHeight 160
+#define customQuestionSmallImageFrame CGRectMake(15, 15, 50, 50);
+#define customQuestionImageFrame CGRectMake(15, 15, 100, 100);
+/*
+ 測試變數
+*/
+#define testAcc @"chan"
+#define testPass @"1234"
+#define testQid @"14"
+#define testSearchKey @""
+#define testU_education 1
+#define testU_course 0
+
+
+#define oddCellBackgroundColor [UIColor colorWithRed:214.0f/255.0f green:214.0f/255.0f blue:236.0f/255.0f alpha:0.5]
+#define evenCellBackgroundColor [UIColor colorWithRed:255.0f/255.0f green:255.0f/255.0f blue:255.0f/255.0f alpha:0.5]

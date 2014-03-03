@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <question>
+    <seq comment="序號">1</seq>
+    <title comment="標題">標1號</title>
+    <content comment="內容">內容1號</content>
+    <imageurl>xxxxx</imageurl>
+    <answer comment="回答數量">4</answer>
+  </question>
+  <question>
+    <seq comment="序號">2</seq>
+    <title comment="標題">標2號</title>
+    <content comment="內容">內容2號</content>
+    <imageurl>xxxxx</imageurl>
+    <answer comment="回答數量">4</answer>
+  </question>
+  <question>
+    <seq comment="序號">3</seq>
+    <title comment="標題">3號</title>
+    <content comment="內容">內容3號</content>
+    <imageurl>xxxxx</imageurl>
+    <answer comment="回答數量">4</answer>
+  </question>
+  <question>
+    <seq comment="序號">4</seq>
+    <title comment="標題">標4號</title>
+    <content comment="內容">內容4號</content>
+    <imageurl>xxxxx</imageurl>
+    <answer comment="回答數量">4</answer>
+  </question>
+  <question>
+    <seq comment="序號">5</seq>
+    <title comment="標題">標5號</title>
+    <content comment="內容">內容5號</content>
+    <imageurl>xxxxx</imageurl>
+    <answer comment="回答數量">4</answer>
+  </question>
+</result>

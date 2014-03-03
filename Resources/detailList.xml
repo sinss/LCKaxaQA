@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <question>
+    <type comment="0:問題 1:回答">0</type>
+    <title comment="標題">問題標題</title>
+    <content comment="問題內容">13度入選明星賽，過去10個球季助球隊5度封王的布萊恩，第2節結束前2分05秒3罰3進，生涯得分超越馬龍的2萬7409分，終場結束後，更以14分超前馬龍紀錄。</content>
+    <education comment="教育程度">高中</education>
+    <class comment="分類">數學</class>
+    <date comment="建立日期">2011-03-10 07:04:45</date>
+    <status comment="問題狀態(代碼？)"></status>
+    <imageurl comment="圖片連結"></imageurl>
+  </question>
+  <answer>
+    <seq comment="序號">1</seq>
+    <type comment="0:問題 1:回答">1</type>
+    <content comment="問題內容">11111111</content>
+    <date comment="建立日期">2011-03-10 07:04:45</date>
+    <status comment="1:最佳解答(代碼)">0</status>
+    <imageurl comment="圖片連結"></imageurl>
+  </<answer>
+  <answer>
+    <seq comment="序號">2</seq>
+    <type comment="0:問題 1:回答">1</type>
+    <content comment="問題內容">22222222</content>
+    <date comment="建立日期">2011-03-10 07:04:45</date>
+    <status comment="1:最佳解答(代碼)">0</status>
+    <imageurl comment="圖片連結"></imageurl>
+  </<answer>
+  <answer>
+    <seq comment="序號">3</seq>
+    <type comment="0:問題 1:回答">1</type>
+    <content comment="問題內容">33333333</content>
+    <date comment="建立日期">2011-03-10 07:04:45</date>
+    <status comment="1:最佳解答(代碼)">0</status>
+    <imageurl comment="圖片連結"></imageurl>
+  </<answer>
+  <answer>
+    <seq comment="序號">4</seq>
+    <type comment="0:問題 1:回答">1</type>
+    <content comment="問題內容">444444444</content>
+    <date comment="建立日期">2011-03-10 07:04:45</date>
+    <status comment="1:最佳解答(代碼)">1</status>
+    <imageurl comment="圖片連結"></imageurl>
+  </<answer>
+</result>

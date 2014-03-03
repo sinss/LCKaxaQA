@@ -1,0 +1,104 @@
+/* Localized versions of Info.plist keys */
+CFBundleDisplayName="行動問答";
+"Home"="首頁";
+"MyArea"="我的專區";
+"Search"="搜尋";
+"Setting"="設定";
+"AskQuestion"="發問";
+"Detail"="問題詳細清單";
+"ReplyQuestion"="回答";
+"Giveup"="放棄";
+"Cancel"="取消";
+"Done"="確定";
+"Back"="返回";
+"AccountSetting"="帳號設定";
+"LoginAccount"="登入我的帳號";
+"CreateAccount"="註冊新帳號";
+"AboutMe"="關於我";
+"AboutSystem"="本程式介紹";
+"AboutTeam"="關於我們";
+"ContactUs"="聯絡我們";
+"AboutKaxa"="關於Kaxa網";
+"SystemIntro"="系統";
+
+"Login"="登入";
+"ClearAccount"="清除帳號";
+"LoginFaild"="帳號登入失敗";
+"Signup"="註冊";
+"SignupFaild"="註冊失敗";
+"Account"="帳號";
+"Password"="密碼";
+"name"="姓名";
+"Nickname"="暱稱";
+"email"="電子郵件";
+"EnterAccount"="請輸入帳號(電子郵件)";
+"EnterPassword"="請輸入密碼";
+"CheckPassword"="再次確認密碼";
+"EnterName"="請輸入姓名";
+"EnterEmail"="請輸入電子郵件信箱";
+"EnterNickname"="請輸入暱稱 (顯示欄位)";
+"NotEmptyAccount"="帳號輸入錯誤";
+"NotEmptyPassword"="密碼輸入錯誤";
+"PasswordLength"="密碼長度最少8碼";
+"NotEmptyName"="姓名輸入錯誤";
+"NotEmptyEmail"="電子郵件輸入錯誤";
+"NotEmptyNickname"="暱稱輸入錯誤";
+"NotAnEmail"="無效的電子郵件信箱";
+
+"LastestNews"="最新消息";
+"LastestQuestion"="最新回覆";
+"LastestReply"="最新回答";
+"AskQuestionList"="發問過的問題";
+"ReplyQuestionList"="回答過的問題";
+"ReplyTime"="回覆時間:%@";
+"AnswerCount"="回答數量：%i";
+"package"="已封裝";
+"unpackage"="未封裝";
+"closed"="已結案";
+"active"="未結案";
+"NotCheckAccount"="尚未驗證您的帳號";
+"Welcome"="歡迎你回來";
+"MyQuestion"="我的主題";
+"MyReply"="我的回覆";
+"MySubscribe"="我的訂閱";
+/*
+ 年級
+ */
+"All"="(全部)";
+"Elementary"="國小";
+"Junior"="國中";
+"Senior"="高中";
+"University"="大專";
+/*
+ 科目
+ */
+"Math"="數學";
+"PandC"="理化";
+"Physical"="高中物理";
+"Physical2"="國中理化";
+"Chemistry"="化學";
+"BasicChemistry"="基礎化學";
+"Chinese"="國文";
+"English"="英文";
+"Other"="地科＆生物";
+/*
+ QuestionDetail文字
+ */
+"Picture"="圖片";
+"Title"="標題";
+"Content"="內容";
+"Class"="分類";
+"date"="建立日期";
+/*
+ AskTableView文字
+ */
+"PickPicture"="拍攝或選取一張照片";
+"Subject"="科目";
+"School"="年級";
+"PleaseEnterTitle"="請輸入標題";
+"PleaseEnterContent"="請輸入問題描述";
+"CameraSource"="選擇照片來源";
+"TakePicture"="拍攝照片";
+"PhotoAlbum"="從相冊中選擇";
+"CameraNotSupport"="此裝置不支援拍照模式";
+

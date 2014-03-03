@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DD23DF95-62FA-4A48-9DD1-ABED6C394A47</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KaxaQ&amp;A</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFC903F9-9B5F-479A-9AAE-D426A2975DCA</key>
+		<string>https://github.com/sinss/kaxaQ-A.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KaxaQ&amp;A.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFC903F9-9B5F-479A-9AAE-D426A2975DCA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/MountainStarMobile/Kaxa-Work-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFC903F9-9B5F-479A-9AAE-D426A2975DCA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFC903F9-9B5F-479A-9AAE-D426A2975DCA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-Kaxa</string>
+		</dict>
+	</array>
+</dict>
+</plist>

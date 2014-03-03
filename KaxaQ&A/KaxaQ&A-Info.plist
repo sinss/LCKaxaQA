@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>icon.png</string>
+		<string>icon@2x.png</string>
+	</array>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string>icon.png</string>
+				<string>icon@2x.png</string>
+			</array>
+		</dict>
+	</dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.kaxaQA.demo</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.10</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.10</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIPrerenderedIcon</key>
+	<false/>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+	<key>aboutSystemInfo</key>
+	<string>這是一個行動發問平台，適用於隨時隨地可發問問題的系統，歡迎大家的使用。</string>
+	<key>aboutTeamInfo</key>
+	<string>Kaxa一如其名，只要用手機「喀擦」一下，將問題拍照直接上傳到此，藉由廣大社群的力量，讓有能力回答的使用者也「喀擦」回覆。彈指之間，不僅提升發問率與回答率，藉由手機即時互動，更大幅縮短問答間的等待。再者，Kaxa Q&amp;A 提供包含相片、聲音及影音等多媒體方式，讓回答者盡情回答，讓一道問題的解法可以有多樣且豐富的創作呈現。
+這些功能的提供，解決了傳統問答方式的不便性，對數理教育的大眾化推廣將有重大且實質的助益。</string>
+	<key>aboutTeamSupport</key>
+	<string>KaxaQ&amp;A創立的目的，是讓學生除了補習或請家教外，有另一個管道，能提出自己的學習問題，並獲得有心人士的回答。這個目的的背後，其實是為了嘗試解決更多的問題：</string>
+</dict>
+</plist>

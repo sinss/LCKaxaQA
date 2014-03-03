@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <question>
+    <seq comment="序號">1</seq>
+    <type comment="0:問過問題 or 1:回答過問題(代碼)">0</type>
+    <title comment="問題標題">問題預設標題</title>
+    <content comment="問題內容">13度入選明星賽，過去10個球季助球隊5度封王的布萊恩，第2節結束前2分05秒3罰3進，生涯得分超越馬龍的2萬7409分，終場結束後，更以14分超前馬龍紀錄。</content>
+    <imageurl comment="照片連結">rrrrrrrrrrr</imageurl>
+    <staus comment="0:未結案 or 1:已結案(代碼)">0</staus>
+    <package comment="0:已封存 or 1:未封存(代碼)">1</package>
+    <answer comment="回答數量">4</answer>
+  </question>
+   <question>
+    <seq comment="序號">2</seq>
+    <type comment="0:問過問題 or 1:回答過問題(代碼)">0</type>
+    <title comment="問題標題">問題預設標題</title>
+    <content comment="問題內容">13度入選明星賽，過去10個球季助球隊5度封王的布萊恩，第2節結束前2分05秒3罰3進，生涯得分超越馬龍的2萬7409分，終場結束後，更以14分超前馬龍紀錄。</content>
+    <imageurl comment="照片連結">xxxxxxxxx</imageurl>
+    <staus comment="0:未結案 or 1:已結案(代碼)">0</staus>
+    <package comment="0:已封存 or 1:未封存(代碼)">1</package>
+    <answer comment="回答數量">4</answer>
+  </question>
+</result>
